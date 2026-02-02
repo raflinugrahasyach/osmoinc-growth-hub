@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 
 const teamMembers = [
   {
-    name: 'Syabila Cahya',
+    name: 'Syabila Cahya Albar',
     role: 'CEO',
     initials: 'SC',
   },
